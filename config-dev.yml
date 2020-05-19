@@ -1,0 +1,12 @@
+{
+    "name":"config-repo",
+    "profiles":[
+        "dev"
+    ],
+    "label":null,
+    "version":"92bd1adf4d22d2a27ce34cd0abc7d1702ad8fff6",
+    "state":null,
+    "propertySources":[
+ 
+    ]
+}
